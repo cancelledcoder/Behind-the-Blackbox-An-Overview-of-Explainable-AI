@@ -24,7 +24,7 @@ This repository contains a comprehensive pipeline for breast cancer detection us
 
 - Python 3.8+
 - pip
-- All dependencies listed at the top of `models.py`
+- All dependencies listed in `requirements.txt`
 
 ### Running the Pipeline
 

@@ -28,5 +28,21 @@ This repository contains a comprehensive pipeline for breast cancer detection us
 
 ### Running the Pipeline
 
-```bash
-python [models.py](http://_vscodecontentref_/0)
+``bash
+`python [models.py](http://_vscodecontentref_/0)`
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+## Acknowledgements
+
+- UCI Machine Learning Repository
+- scikit-learn, XGBoost, SHAP, LIME, matplotlib, seaborn
+
+---
+
+*For questions or contributions, please open an issue or pull request.*
+
+
+
